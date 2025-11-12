@@ -15,5 +15,7 @@ Arrests Counts: Bowen Deng
  <img width="773" height="509" alt="image" src="https://github.com/user-attachments/assets/3f30d263-59f5-43b9-9934-4cffa347e0e9" />
  
 
+
+
  Crafton Heights have the most dangerous and reckless drivers. Their median speed is 37.0 when the speed limit is 25.0!
- 
+<img width="712" height="105" alt="image" src="https://github.com/user-attachments/assets/217d0cfc-5074-4c45-ab2f-44f88e77f6a5" />
