@@ -7,6 +7,7 @@ Arrests Counts: Bowen Deng
 **Best/Safest Neighborhood** : Allegheny West, with 2 felonies,	12 misdemeanors,	24 infractions and 2 unlabeled arrests arrests from 2024 - September 2025
  The median driving speed here is 20.0 when the limit is 25.0. People are driving very carefully here.
  
+ Another great neighborhood worth mentioning would be Swisshelm Park, with no felonies,	no misdemeanors,	no infractions and 7 unlabeled arrests arrests from 2024 - September 2025
 
 
  **Worst Neighborhood** : Central Business District	, with 371 felonies,	1449 misdemeanors,	371 infractions and 345 unlabeled arrests from 2024 - September 2025
