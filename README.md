@@ -69,6 +69,7 @@ TrafficCount.ipynb: This notebook analyzes traffic data to identify areas with d
 
 Thomas_Eaton_Air_Quality.ipynb: This notebook analyzes local air quality data, another important factor in overall quality of life.
 
+## SO IN CONCLUSION
 
 **Best/Safest Neighborhood** : Allegheny West, with 2 felonies,	12 misdemeanors,	24 infractions and 2 unlabeled arrests arrests from 2024 - September 2025
  The median driving speed here is 20.0 when the limit is 25.0. People are driving very carefully here.
