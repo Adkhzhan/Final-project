@@ -1,6 +1,8 @@
 # Finding the Best Neighborhood in Pittsburgh
 ## A Data-Driven Analysis of Safety & Quality of Life
-### Final Project
+### Final Project TEAM NAME: SAFETY MATTERS
+Bowen Deng - bod32@pitt.edu - https://data.wprdc.org/dataset/pbp_arrest_data_2024_2025
+
 
 ---
 
