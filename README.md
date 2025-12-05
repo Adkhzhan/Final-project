@@ -5,6 +5,7 @@ Bowen Deng - bod32@pitt.edu - https://data.wprdc.org/dataset/pbp_arrest_data_202
 
 Adam Zhantibiyev - adz43@pitt.edu - https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh
 
+Thomas Eaton - the25@pitt.edu - https://data.wprdc.org/dataset/allegheny-county-air-quality
 
 ---
 
