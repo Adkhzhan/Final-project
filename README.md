@@ -2,6 +2,7 @@
 ## A Data-Driven Analysis of Safety & Quality of Life
 ### Final Project TEAM NAME: SAFETY MATTERS
 Bowen Deng - bod32@pitt.edu - https://data.wprdc.org/dataset/pbp_arrest_data_2024_2025
+Adam Zhantibiyev - adz43@pitt.edu - https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh
 
 
 ---
